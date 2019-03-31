@@ -78,7 +78,6 @@ body {
   font-size: 1.15em;
   width: 34vw;
   padding-right: 6em;
-  
 }
 
 .image {
@@ -90,5 +89,4 @@ footer {
   background: #423e5f;
   height: 20vh;
   display: flex;
- 
 }
