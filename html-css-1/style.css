@@ -1,0 +1,94 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  background: #707070;
+  color: white;
+  padding: 1.5em;
+}
+
+.company-logo {
+  text-transform: uppercase;
+  font-size: 2em;
+}
+
+.links {
+  display: flex;
+  justify-content: right;
+}
+
+.link {
+  padding-right: 2em;
+  padding-top: 0.3em;
+  font-size: 1.3em;
+}
+
+.hero {
+  background: black;
+  color: #e9e05e;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+  height: 55vh; 
+  font-weight: bold;
+  font-size: 6em;
+  align-items: center;
+}
+
+.three-boxes {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 3em;
+}
+
+.box {
+  display: flex;
+  background: aquamarine;
+  height: 35vh;
+  width: 20vw;
+  border-radius: 8%;
+}
+
+.two-boxes {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 3em;
+  padding: 1em 5em 1em;
+}
+
+.box1 {
+  background: #fec36c;
+  height: 35vh;
+  width: 38vw;
+}
+
+.paragraph {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 3em;
+  padding: 0 0 0em;
+  
+}
+
+.statement {
+  font-size: 1.15em;
+  width: 34vw;
+  padding-right: 6em;
+  
+}
+
+.image {
+ display: flex;
+ padding-right: 5em;
+}
+
+footer {
+  background: #423e5f;
+  height: 20vh;
+  display: flex;
+ 
+}
